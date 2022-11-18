@@ -1,8 +1,8 @@
 name: Integration (Automatic)
 
 on: [push]
-# on:s
-# push:s
+# on:
+# push:
 #   branches:
 #     - main
 #     - "release/**"
