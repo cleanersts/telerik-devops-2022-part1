@@ -2,7 +2,7 @@ name: Integration (Automatic)
 
 on: [push]
 # on:s
-# push:
+# push:s
 #   branches:
 #     - main
 #     - "release/**"
