@@ -1,7 +1,7 @@
 name: Integration (Automatic)
 
 on: [push]
-# on:
+# on:s
 # push:
 #   branches:
 #     - main
